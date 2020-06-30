@@ -1,4 +1,4 @@
-package ExamplePoolPuzzle;
+package ExampleJava;
 
 public class Triangle {
     double area;

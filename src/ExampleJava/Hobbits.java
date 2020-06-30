@@ -1,4 +1,4 @@
-package ExampleHobbits;
+package ExampleJava;
 
 public class Hobbits {
     String name;

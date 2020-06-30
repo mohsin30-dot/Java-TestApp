@@ -1,4 +1,4 @@
-package ExampleBooks;
+package ExampleJava;
 
 public class Books {
     String title;

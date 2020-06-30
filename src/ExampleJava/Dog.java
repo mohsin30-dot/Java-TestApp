@@ -1,4 +1,4 @@
-package ExampleDog;
+package ExampleJava;
 
 public class Dog {
     public static void main(String[] args) {
